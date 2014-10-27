@@ -1,4 +1,4 @@
-mongoimport -h ds047940.mongolab.com:47940 -d yelp -c tip -u hacker -p mongodb --file tip.json
+mongoimport -h ds047940.mongolab.com:47940 -d yelp -c tip -u hacker -p <pass> --file tip.json
 
 # Team Members
 
