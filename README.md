@@ -1,10 +1,10 @@
 # Team Members
 
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Adrian Chen](https://github.com/adrian-chen)
+* [Brian Newsom](https://github.com/BrianNewsom)
+* [Dawson Botsford](https://github.com/dawsonbotsford)
+* [Peyton Mortazavi](https://github.com/peymanmortazavi)
+* [Marc Simpson](https://github.com/marsi8397)
 
 # Objective 1. Ingest
 
