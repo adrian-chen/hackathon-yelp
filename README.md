@@ -1,3 +1,5 @@
+mongoimport -h ds047940.mongolab.com:47940 -d yelp -c tip -u hacker -p mongodb --file tip.json
+
 # Team Members
 
 * [Adrian Chen](https://github.com/adrian-chen)
