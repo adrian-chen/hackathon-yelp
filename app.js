@@ -1,10 +1,10 @@
 var express = require('express');
 var mongoskin = require('mongoskin');
 
-var username = '' // TODO
-var password = '' // TODO
-var url = '' // TODO
-var db = mongoskin.db('mongodb://'+username+':'+password+'@'+url+':39960/yelp', {safe:true})
+var username = 'hacker' // TODO
+var password = 'mongodb' // TODO
+var url = 'ds047940.mongolab.com:47940' // TODO
+var db = mongoskin.db('mongodb://'+username+':'+password+'@'+url+'/yelp', {safe:true})
 var app = express();
 
 // view engine setup
