@@ -10,7 +10,7 @@ mongo ds047940.mongolab.com:47940/yelp -u <dbuser> -p <dbpassword>
 
 # Objective 1. Ingest
 
-![screenshot of terminal output of a successful query](screenshot.png?raw=true) 
+![screenshot of terminal output of a successful query](obj1.png?raw=true) 
 
 # Objective 2. Query
 
